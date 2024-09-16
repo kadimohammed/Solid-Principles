@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A60CCB-4637-483E-A42E-FABA6C949784}|1- Encapsulate What Varies\\1- Encapsulate What Varies.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\1- encapsulate what varies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A60CCB-4637-483E-A42E-FABA6C949784}|1- Encapsulate What Varies\\1- Encapsulate What Varies.csproj|solutionrelative:1- encapsulate what varies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A60CCB-4637-483E-A42E-FABA6C949784}|1- Encapsulate What Varies\\1- Encapsulate What Varies.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\1- encapsulate what varies\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A60CCB-4637-483E-A42E-FABA6C949784}|1- Encapsulate What Varies\\1- Encapsulate What Varies.csproj|solutionrelative:1- encapsulate what varies\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\1- Encapsulate What Varies\\Pizza.cs",
+              "RelativeDocumentMoniker": "1- Encapsulate What Varies\\Pizza.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\1- Encapsulate What Varies\\Pizza.cs",
+              "RelativeToolTip": "1- Encapsulate What Varies\\Pizza.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:58:02.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\1- Encapsulate What Varies\\Program.cs",
+              "RelativeDocumentMoniker": "1- Encapsulate What Varies\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\1- Encapsulate What Varies\\Program.cs",
+              "RelativeToolTip": "1- Encapsulate What Varies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:37:55.818Z",
+              "EditorCaption": ""
             }
           ]
         }

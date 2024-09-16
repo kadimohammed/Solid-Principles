@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Solid Principles")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("1- Encapsulate What Varies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Solid Principles")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Solid Principles")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff60389eae62e791b2e714077feab28b17b087da")]
+[assembly: System.Reflection.AssemblyProductAttribute("1- Encapsulate What Varies")]
+[assembly: System.Reflection.AssemblyTitleAttribute("1- Encapsulate What Varies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
