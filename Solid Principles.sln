@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1- Encapsulate What Varies", "1- Encapsulate What Varies\1- Encapsulate What Varies.csproj", "{35A60CCB-4637-483E-A42E-FABA6C949784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2- Composition - Inheritance", "2- Composition - Inheritance\2- Composition - Inheritance.csproj", "{889B04DB-8A88-44EE-9EAD-D5B09E848EB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2- Composition - Inheritance", "2- Composition - Inheritance\2- Composition - Inheritance.csproj", "{889B04DB-8A88-44EE-9EAD-D5B09E848EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3- Loose - Tight Coupling", "3- Loose - Tight Coupling\3- Loose - Tight Coupling.csproj", "{CE6CCAD2-B12B-47D1-B51E-1A5D09A27BBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{889B04DB-8A88-44EE-9EAD-D5B09E848EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889B04DB-8A88-44EE-9EAD-D5B09E848EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889B04DB-8A88-44EE-9EAD-D5B09E848EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6CCAD2-B12B-47D1-B51E-1A5D09A27BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6CCAD2-B12B-47D1-B51E-1A5D09A27BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6CCAD2-B12B-47D1-B51E-1A5D09A27BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6CCAD2-B12B-47D1-B51E-1A5D09A27BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
