@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3- Loose - Tight Coupling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4eb8ee3d57bc808136888784e947c34123f0ffb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa3b3272f8c0b39dc9a80d33916d59f010e7a5d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("3- Loose - Tight Coupling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3- Loose - Tight Coupling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

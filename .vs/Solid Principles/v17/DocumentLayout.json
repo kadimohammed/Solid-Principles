@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\4- single responsibility\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|solutionrelative:4- single responsibility\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\5- open closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|solutionrelative:5- open closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\4- single responsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|solutionrelative:4- single responsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\4- single responsibility\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E61300D0-4602-4EB8-9AEF-98316EBCD078}|4- Single Responsibility\\4- Single Responsibility.csproj|solutionrelative:4- single responsibility\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\5- open closed\\after\\choixmultiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|solutionrelative:5- open closed\\after\\choixmultiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\AccountService.cs",
-              "RelativeDocumentMoniker": "4- Single Responsibility\\AccountService.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\AccountService.cs",
-              "RelativeToolTip": "4- Single Responsibility\\AccountService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAACFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:00:29.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\Account.cs",
-              "RelativeDocumentMoniker": "4- Single Responsibility\\Account.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\Account.cs",
-              "RelativeToolTip": "4- Single Responsibility\\Account.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAMwC4AAAALAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\Program.cs",
+              "RelativeDocumentMoniker": "5- Open Closed\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\Program.cs",
+              "RelativeToolTip": "5- Open Closed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:56:56.315Z",
+              "WhenOpened": "2024-09-18T12:34:22.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\Program.cs",
-              "RelativeDocumentMoniker": "4- Single Responsibility\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\4- Single Responsibility\\Program.cs",
-              "RelativeToolTip": "4- Single Responsibility\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Title": "ChoixMultipleQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\After\\ChoixMultipleQuestion.cs",
+              "RelativeDocumentMoniker": "5- Open Closed\\After\\ChoixMultipleQuestion.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\After\\ChoixMultipleQuestion.cs",
+              "RelativeToolTip": "5- Open Closed\\After\\ChoixMultipleQuestion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:33:19.84Z",
+              "WhenOpened": "2024-09-18T12:31:13.358Z",
               "EditorCaption": ""
             }
           ]
