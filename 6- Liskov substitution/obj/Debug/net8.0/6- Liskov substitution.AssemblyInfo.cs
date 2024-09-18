@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("1- Encapsulate What Varies")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("6- Liskov substitution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+686e8aa29cf666831586c6004a932c0c151f1fc0")]
-[assembly: System.Reflection.AssemblyProductAttribute("1- Encapsulate What Varies")]
-[assembly: System.Reflection.AssemblyTitleAttribute("1- Encapsulate What Varies")]
+[assembly: System.Reflection.AssemblyProductAttribute("6- Liskov substitution")]
+[assembly: System.Reflection.AssemblyTitleAttribute("6- Liskov substitution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\5- open closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|solutionrelative:5- open closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\5- open closed\\after\\choixmultiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B8B5BF-6755-41D9-B629-62142293A2B6}|5- Open Closed\\5- Open Closed.csproj|solutionrelative:5- open closed\\after\\choixmultiplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F2DC1B-F233-4435-AE37-13606B188221}|6- Liskov substitution\\6- Liskov substitution.csproj|c:\\users\\mo kadi\\desktop\\.net course\\solid-principles\\6- liskov substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F2DC1B-F233-4435-AE37-13606B188221}|6- Liskov substitution\\6- Liskov substitution.csproj|solutionrelative:6- liskov substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\Program.cs",
-              "RelativeDocumentMoniker": "5- Open Closed\\Program.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\Program.cs",
-              "RelativeToolTip": "5- Open Closed\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\6- Liskov substitution\\Program.cs",
+              "RelativeDocumentMoniker": "6- Liskov substitution\\Program.cs",
+              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\6- Liskov substitution\\Program.cs",
+              "RelativeToolTip": "6- Liskov substitution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:34:22.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChoixMultipleQuestion.cs",
-              "DocumentMoniker": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\After\\ChoixMultipleQuestion.cs",
-              "RelativeDocumentMoniker": "5- Open Closed\\After\\ChoixMultipleQuestion.cs",
-              "ToolTip": "C:\\Users\\MO KADI\\Desktop\\.net course\\Solid-Principles\\5- Open Closed\\After\\ChoixMultipleQuestion.cs",
-              "RelativeToolTip": "5- Open Closed\\After\\ChoixMultipleQuestion.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:31:13.358Z",
+              "WhenOpened": "2024-09-18T13:20:27.192Z",
               "EditorCaption": ""
             }
           ]
