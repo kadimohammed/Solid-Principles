@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\bin\Debug\net8.0\4- Single Responsibility.exe
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\bin\Debug\net8.0\4- Single Responsibility.deps.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\bin\Debug\net8.0\4- Single Responsibility.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\bin\Debug\net8.0\4- Single Responsibility.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\bin\Debug\net8.0\4- Single Responsibility.pdb
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\refint\4- Single Responsibility.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.pdb
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\4- Single Responsibility.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\4- Single Responsibility\obj\Debug\net8.0\ref\4- Single Responsibility.dll
