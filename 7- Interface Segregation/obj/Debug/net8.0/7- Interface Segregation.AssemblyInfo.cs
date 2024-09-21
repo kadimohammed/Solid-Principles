@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("4- Single Responsibility")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("7- Interface Segregation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0846f7b80954aed82767a3f1b78a4e694bff5064")]
-[assembly: System.Reflection.AssemblyProductAttribute("4- Single Responsibility")]
-[assembly: System.Reflection.AssemblyTitleAttribute("4- Single Responsibility")]
+[assembly: System.Reflection.AssemblyProductAttribute("7- Interface Segregation")]
+[assembly: System.Reflection.AssemblyTitleAttribute("7- Interface Segregation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
