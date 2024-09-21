@@ -1,0 +1,15 @@
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\bin\Debug\net8.0\8- Dependency Inversion.exe
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\bin\Debug\net8.0\8- Dependency Inversion.deps.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\bin\Debug\net8.0\8- Dependency Inversion.runtimeconfig.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\bin\Debug\net8.0\8- Dependency Inversion.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\bin\Debug\net8.0\8- Dependency Inversion.pdb
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.AssemblyInfoInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.AssemblyInfo.cs
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.csproj.CoreCompileInputs.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.sourcelink.json
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\refint\8- Dependency Inversion.dll
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.pdb
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\8- Dependency Inversion.genruntimeconfig.cache
+C:\Users\MO KADI\Desktop\.net course\Solid-Principles\8- Dependency Inversion\obj\Debug\net8.0\ref\8- Dependency Inversion.dll
