@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("1- Encapsulate What Varies")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("9- KISS & YAGNI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+783296a62085c41f31b58b8b335d8a671bdf52a2")]
-[assembly: System.Reflection.AssemblyProductAttribute("1- Encapsulate What Varies")]
-[assembly: System.Reflection.AssemblyTitleAttribute("1- Encapsulate What Varies")]
+[assembly: System.Reflection.AssemblyProductAttribute("9- KISS & YAGNI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("9- KISS & YAGNI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

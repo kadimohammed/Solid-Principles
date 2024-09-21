@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6- Liskov substitution", "6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7- Interface Segregation", "7- Interface Segregation\7- Interface Segregation.csproj", "{3848D65D-1123-4261-81DD-2645CDA3EDFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8- Dependency Inversion", "8- Dependency Inversion\8- Dependency Inversion.csproj", "{14A97240-BCC0-4173-ADA6-FEA352333721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8- Dependency Inversion", "8- Dependency Inversion\8- Dependency Inversion.csproj", "{14A97240-BCC0-4173-ADA6-FEA352333721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9- KISS & YAGNI", "9- KISS & YAGNI\9- KISS & YAGNI.csproj", "{0B837C7E-F2AB-4A48-B983-14B6634B539E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{14A97240-BCC0-4173-ADA6-FEA352333721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A97240-BCC0-4173-ADA6-FEA352333721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A97240-BCC0-4173-ADA6-FEA352333721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B837C7E-F2AB-4A48-B983-14B6634B539E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B837C7E-F2AB-4A48-B983-14B6634B539E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B837C7E-F2AB-4A48-B983-14B6634B539E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B837C7E-F2AB-4A48-B983-14B6634B539E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
