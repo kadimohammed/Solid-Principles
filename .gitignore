@@ -1,0 +1,21 @@
+# Ignorer les dossiers bin et obj à tous les niveaux
+**/bin/
+**/obj/
+
+# Fichiers utilisateur Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Dossiers et fichiers de configuration IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Packages NuGet
+*.nupkg
+packages/
